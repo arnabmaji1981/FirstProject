@@ -12,7 +12,7 @@ def check_badwords(words_tocheck):
 
     output = connection.read()
     print(output)
-
+# this function has to be updated
 
 read_file()
 
